@@ -1,0 +1,173 @@
+body{
+    background-color:hsl(229, 57%, 11%);
+    margin:0;
+}
+
+.bg-desk{
+    width:100%;
+    margin-top:12.0%;
+    height:333px;
+
+}
+.cloud{
+    display: inline-block;
+    position: relative;
+    width:180px;
+    top:215px;
+    left:390px;
+    margin: 0;
+}
+.pic2{
+    display: inline-block;
+    position: relative;
+    width: 500px;
+    height: 130px;
+    left: 600px;
+    top:280px;
+}
+.logo{
+    display: inline;
+    position:absolute;
+    width:25%;
+    top:210px;
+    left:230px;
+    height:200px;
+
+}
+.spam{
+    color:white;
+    display:inline;
+    margin: 0 0 0 0;
+    font-size: 12px;
+    font-family: 'raleway',sans-serif;
+    font-weight: bolder;
+}
+.gb{
+    display: block;
+    font-family: 'raleway',sans-serif;
+    color: white;
+    position: absolute;
+    font-size:12px;
+    top: 305px;
+    left:48.2%;
+}
+
+.gbleft{
+    color:  hsl(229, 7%, 55%);
+    display: inline;
+    position: absolute;
+    font-family: 'raleway',sans-serif;
+    font-weight: bolder;
+    top: 40.0%;
+    left: 73.5%;
+    font-size: 70%;
+}
+
+.gb185{
+    display: inline;
+    font-family:'raleway',sans-serif;
+    font-weight: bolder;
+    position: absolute;
+    top: 37.0%;
+    left: 68.5%;
+    font-size: 230%;
+}
+
+.gb0{
+    color:rgb(255, 255, 255);
+    font-family: 'raleway',sans-serif;
+    display: inline;
+    position: absolute;
+    top: 57%;
+    left: 47.9%;
+    font-weight: bolder;
+    font-size:84%;
+}
+.gb1000{
+    color:rgb(255, 255, 255);
+    font-family: 'raleway',sans-serif;
+    display: inline;
+    position: absolute;
+    top: 57%;
+    left:74.1%;
+    font-size:84%;
+    font-weight: bolder;
+}
+.loading{
+    display:inline;
+    position: absolute;
+    width:30%;
+    top: 53%;
+    left:47.9%;
+    height:3.5%;
+}
+.pdiv{
+    display: inline-block;
+    position: absolute;
+    left:800px;
+}
+
+.attribution {
+    display: inline;
+    position: absolute;
+    top: 625px;
+    left:968px ;
+    margin: auto;
+    color: hsl(228, 100%, 80%); 
+    font-size: 18px; text-align: center; 
+} 
+
+.hypl{ 
+    color: rgb(255, 255, 255);
+    size: 500px;
+    right: 200px;
+    text-decoration-line: none;
+}
+.document1{
+    display: inline;
+    position: absolute;
+    top:319px;
+    left: 292px;
+}
+.folder{
+    display: inline;
+    position: absolute;
+    top:322px;
+    left: 349px;
+}
+.upload{
+    display: inline;
+    position: absolute;
+    top:324px;
+    left: 410px;
+}
+.logo1{
+    display: inline;
+    position: absolute;
+    top:245px;
+    left: 280px;
+}
+
+.cube1{
+    display: inline;
+    position: absolute;
+    top:310px;
+    left: 339px;
+    width: 44px;
+}
+
+.cube2{
+    display: inline;
+    position: absolute;
+    top:310px;
+    left: 400px;
+    width: 44px;
+}
+
+.cube3{
+    display: inline;
+    position: absolute;
+    top:310px;
+    left: 279px;
+    width: 44px;
+}
